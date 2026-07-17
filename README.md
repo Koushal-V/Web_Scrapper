@@ -1,4 +1,3 @@
-````markdown
 # Indeed Job Scraper using Apify API
 
 This Python project allows you to scrape job listings from [Indeed](https://www.indeed.com) using the Apify platform. It fetches job listings based on the job title you input, processes the data, and saves it into a clean Excel file.
